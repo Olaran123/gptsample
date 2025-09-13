@@ -1,1 +1,1 @@
-# gptsample
+# GemmaModel_270m
